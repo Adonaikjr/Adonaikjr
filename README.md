@@ -13,22 +13,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
   <a href="https://github.com/adonaikjr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adonaikjr&show_icons=true&theme=synthwave"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonaikjr&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+
+
+ 
+<div style="display: inline_block" align="center"> 
+  <div>
+  <img 
+  align="center" alt="adonaikjr-linux" height="100" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="adonaikjr-linux" height="100" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="center" alt="adonaikjr-linux" height="100" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+
+  <div>
   
-  
-<div style="display: inline_block" align="center"><br>
   <img align="center" alt="adonaikjr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="adonaikjr-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="adonaikjr-CSS" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="adonaikjr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="adonaikjr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="adonaikjr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+  ## <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=100%2C100" />
  
 <div align="center"  > 
  <a href="https://discord.gg/fVjvNvT6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
