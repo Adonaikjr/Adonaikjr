@@ -43,7 +43,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg
   <img align="center" alt="adonaikjr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="adonaikjr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </div>
-  
+  <img align="center" alt="adonaikjr-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+
   <div>
   <img align="center" alt="adonaikjr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="adonaikjr-Sass" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
