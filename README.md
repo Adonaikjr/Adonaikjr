@@ -1,6 +1,8 @@
 ### "Hello, my name is Adonai." 👋
 
 https://pdv.greensoft.dev.br/
+
+https://loja.greensoft.dev.br/
 <!--
 **Adonaikjr/Adonaikjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
